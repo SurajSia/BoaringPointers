@@ -1,4 +1,10 @@
 # BoaringPointers
+## Open the File
+
+To view the tuting-file, click the link below:
+
+[Open File](path/to/your/file.ext)
+
 
 # https://github.com/surajsia
 A TUTORIAL ON POINTERS AND ARRAYS IN C
