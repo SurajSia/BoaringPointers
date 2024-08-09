@@ -3,7 +3,7 @@
 
 To view the tuting-file, click the link below:
 
-[Open File :: A TUTORIAL ON POINTERS AND ARRAYS IN C](path/to/your/file.ext)
+[Open File :: A TUTORIAL ON POINTERS AND ARRAYS IN C](https://github.com/SurajSia/BoaringPointers/blob/main/boaringpointers/pointers.htm)
 
 
 [github-profile](https://github.com/surajsia)
