@@ -13,3 +13,12 @@ This is A TUTORIAL ON POINTERS AND ARRAYS IN C Version 1.0 By saisuraj . I am pu
 
 The first commit will be exactly as ver. 1.2 of his tutorial was on his website before it was deleted.
 All future updates with be ver 1.3 and be protected under version 3 of the General Public License. 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SurajSia/my-license/blob/main/README.md) file for details.
+
+---
+
+MIT License
+
